@@ -1,0 +1,1 @@
+This is a comment box form I created while teaching myself how to use rails and Active Record. It works without any bugs.
